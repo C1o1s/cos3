@@ -3,3 +3,9 @@ p
 color: #FF0000;
 font-size: 22px;
 }
+p#gruby_maksymiuk
+{
+  color: #00FF00;
+font-size: 17px;
+  font:weight:bold;
+}
